@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Waariss. I am new here
 - 👀 I’m interested in software engineer and cyber security
 - 🌱 I’m currently learning at Faculty of Information and Communication Technology (ICT Mahidol)
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me IG: Waaris_m
-### :hammer_and_wrench: Languages and Tools :
+### :fire: My Stats :
+### :hammer_and_wrench: Languages and Tools : https://github-readme-streak-stats.herokuapp.com/?user=Waariss
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
