@@ -2,7 +2,7 @@
 - 👀 I’m interested in software engineer and cyber security
 - 🌱 I’m currently learning at Faculty of Information and Communication Technology (ICT Mahidol)
 - 📫 How to reach me IG: Waaris_m
-### :fire: My Stats : 
+### :saturn: My Stats : 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
 ### :hammer_and_wrench: Languages and Tools : 
 <div>
