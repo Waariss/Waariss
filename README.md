@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Waariss. I am new here
-- 👀 I’m interested in software engineer and cyber security
+- 👀 I’m interested in Software Engineer, Cyber Security, and AI Engineer
 - 🌱 I’m currently learning at Faculty of Information and Communication Technology (ICT Mahidol)
 - 📫 [IG](https://www.instagram.com/waaris_m/) [Linkedln](https://www.linkedin.com/in/waris-damkham/) 
 ### :🪐: My Stats : 
