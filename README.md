@@ -2,7 +2,12 @@
 
 **Software Engineer | Cyber Security Enthusiast | AI Engineer**
 
+I'm an ambitious software engineer with a passion for cybersecurity and AI. With experience in both research and practical application development, I'm always eager to tackle new challenges and collaborate on innovative projects.
+
 🌱 Currently learning at Faculty of Information and Communication Technology (ICT Mahidol)
+
+## 🌟 Visit My Personal Website 🌟
+For a comprehensive look at my portfolio, check out [my personal website](https://waris-damkham.netlify.app)! Dive deep into my journey, projects, and the technologies I've worked with.
 
 ## 🌐 Connect with me:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=222)](https://www.instagram.com/waaris_m/)
@@ -37,6 +42,16 @@
   </a>
 </div>
 
+### 💼 Experience:
+
+1. **Detecting Vulnerable OAuth 2.0 Implementations in Android Applications** - *Ritsumeikan University · Internship*
+   - **Duration**: May 2023 - July 2023 · Shiga, Japan · On-site
+   - **Description**: I researched the security vulnerabilities in Android apps using OAuth 2.0 with Google accounts, focusing on cross-site request forgery (CSRF) risks. By developing an app and analyzing others, I evaluated critical components like the state parameter and authorization code essential for CSRF prevention. The study reveals the protection level against CSRF in OAuth 2.0 Android implementations. Our aim is to promote user safety by highlighting vulnerable apps and underscoring the need for robust security measures. This research sets a benchmark for future app security audits.
+
+2. **Automated COVID-19 Screening Framework Using Deep CNN With Chest X-Ray Medical Images** - *National Central University · Internship*
+   - **Duration**: Jun 2022 - Jul 2022 · Taoyuan City, Taiwan · Remote
+   - **Description**: I contributed to a project on automated COVID-19 diagnosis using chest X-rays, presented at the 2022 6th International Conference on Information Technology (InCIT). We proposed an AI-based screening method utilizing transfer learning and deep neural networks. Using Grad-CAM visualization, our convolutional neural network model showcased superior performance in accuracy, precision, recall, and F-measure on public datasets. This work advanced early COVID-19 detection and highlighted my skills in AI, deep learning, and medical imaging.
+
 ### 📚 Publications:
 
 1. **Automated COVID-19 screening framework via Deep Convolutional Neural Network with Chest X-ray Medical Images**
@@ -45,5 +60,11 @@
    - **Abstract**: An automated COVID-19 screening framework using chest X-ray images is proposed in this study. It leverages artificial intelligence techniques and transfer learning for accurate diagnosis. The framework extracts features using transfer learning and applies modified deep neural networks. Grad-CAM visualization supports the predicted diagnosis. Experimental results demonstrate superior performance compared to other deep learning techniques. This framework has the potential to aid in early COVID-19 diagnosis and alleviate the burden on radiologists.
    - [🔗 Direct Link to the paper](https://doi.org/10.1109/InCIT56086.2022.10067528) 
    - [![DOI](https://img.shields.io/badge/DOI-10.1109%2FInCIT56086.2022.10067528-blue)](https://doi.org/10.1109/InCIT56086.2022.10067528)
+  
+## 📞 Contact
+Feel free to drop me an [email](mailto:waris.dam@student.mahidol.ac.th) for any collaborations, opportunities, or chats over coffee!
 
+---
+
+🌟 Don't forget to star my repo if you found it interesting!
 
