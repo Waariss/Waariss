@@ -36,3 +36,14 @@
     <img src="https://tryhackme-badges.s3.amazonaws.com/waris.dam.png" alt="TryHackMe">
   </a>
 </div>
+
+### 📚 Publications:
+
+1. **Automated COVID-19 screening framework via Deep Convolutional Neural Network with Chest X-ray Medical Images**
+   - **Publication**: IEEE
+   - **Date**: November 2022
+   - **Abstract**: An automated COVID-19 screening framework using chest X-ray images is proposed in this study. It leverages artificial intelligence techniques and transfer learning for accurate diagnosis. The framework extracts features using transfer learning and applies modified deep neural networks. Grad-CAM visualization supports the predicted diagnosis. Experimental results demonstrate superior performance compared to other deep learning techniques. This framework has the potential to aid in early COVID-19 diagnosis and alleviate the burden on radiologists.
+   - [🔗 Direct Link to the paper](https://doi.org/10.1109/InCIT56086.2022.10067528) 
+   - [![DOI](https://img.shields.io/badge/DOI-10.1109%2FInCIT56086.2022.10067528-blue)](https://doi.org/10.1109/InCIT56086.2022.10067528)
+
+
