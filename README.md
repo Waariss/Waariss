@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Waariss. I am new here
 - 👀 I’m interested in Software Engineer, Cyber Security, and AI Engineer
 - 🌱 I’m currently learning at Faculty of Information and Communication Technology (ICT Mahidol)
-- 📫 [IG](https://www.instagram.com/waaris_m/) [Linkedln](https://www.linkedin.com/in/waris-damkham/) 
+- 📫 [IG](https://www.instagram.com/waaris_m/) [Linkedln](https://www.linkedin.com/in/waris-damkham/) [Personal's Website](https://waris-damkham.netlify.app)
 ### :🪐: My Stats : 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Waariss&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Waariss&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
