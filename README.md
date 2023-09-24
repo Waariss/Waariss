@@ -32,5 +32,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://tryhackme-badges.s3.amazonaws.com/waris.dam.png" alt="TryHackMe">
+  <a href="https://tryhackme.com/p/waris.dam">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/waris.dam.png" alt="TryHackMe">
+  </a>
 </div>
