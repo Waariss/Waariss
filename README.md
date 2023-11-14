@@ -47,7 +47,7 @@ For a comprehensive look at my portfolio, check out [my personal website](https:
 
 1. **Detecting Vulnerable OAuth 2.0 Implementations in Android Applications** - *Ritsumeikan University · Internship*
    - **Duration**: May 2023 - July 2023 · Shiga, Japan · On-site
-   - **Description**: I researched the security vulnerabilities in Android apps using OAuth 2.0 with Google accounts, focusing on cross-site request forgery (CSRF) risks. By developing an app and analyzing others, I evaluated critical components like the state parameter and authorization code essential for CSRF prevention. The study reveals the protection level against CSRF in OAuth 2.0 Android implementations. Our aim is to promote user safety by highlighting vulnerable apps and underscoring the need for robust security measures. This research sets a benchmark for future app security audits.
+   - **Description**: I conducted research on the security vulnerabilities in Android apps that use OAuth 2.0 with Google accounts, with a focus on the risks of cross-site request forgery (CSRF). My findings were presented at the Workshop on Cyber Forensics, Security, and E-discovery, during the 23rd IEEE International Conference on Software Quality, Reliability, and Security in 2023. By developing an app and analyzing others, I evaluated critical components such as the state parameter and authorization code, which are essential for CSRF prevention. The study reveals the level of protection against CSRF in implementations of OAuth 2.0 on Android. Our goal is to enhance user safety by identifying vulnerable apps and emphasizing the necessity for robust security measures. This research establishes a benchmark for future security audits of apps.
 
 2. **Automated COVID-19 Screening Framework Using Deep CNN With Chest X-Ray Medical Images** - *National Central University · Internship*
    - **Duration**: Jun 2022 - Jul 2022 · Taoyuan City, Taiwan · Remote
@@ -61,7 +61,13 @@ For a comprehensive look at my portfolio, check out [my personal website](https:
    - **Abstract**: An automated COVID-19 screening framework using chest X-ray images is proposed in this study. It leverages artificial intelligence techniques and transfer learning for accurate diagnosis. The framework extracts features using transfer learning and applies modified deep neural networks. Grad-CAM visualization supports the predicted diagnosis. Experimental results demonstrate superior performance compared to other deep learning techniques. This framework has the potential to aid in early COVID-19 diagnosis and alleviate the burden on radiologists.
    - [🔗 Direct Link to the paper](https://doi.org/10.1109/InCIT56086.2022.10067528) 
    - [![DOI](https://img.shields.io/badge/DOI-10.1109%2FInCIT56086.2022.10067528-blue)](https://doi.org/10.1109/InCIT56086.2022.10067528)
+
+2. **Detecting Vulnerable OAuth 2.0 Implementations in Android Applications**
+   - **Publication**: IEEE
+   - **Date**: Oct 2023
+   - **Abstract**: OAuth 2.0, a prevalent authorization framework, can be vulnerable to cross-site request forgery (CSRF) attacks, thus requiring developers' due diligence during implementation in Android applications. A key countermeasure includes a state parameter in the URL during the login transition. However, lacking state parameter doesn't necessarily imply an inherent vulnerability to CSRF attacks. To investigate this further, we developed an Android application to analyse other Android applications using OAuth 2.0 with Google accounts, focusing primarily on the utilisation of the state parameter in CSRF attack prevention. Our investigation involves assessing the login procedures of applications via both the Chrome application and the default browser. Through this, we aim to identify the presence or absence of the state parameter and the authorization code, critical components in a robust CSRF defence strategy. Our findings allow us to evaluate if Android applications using OAuth 2.0 have basic protections against CSRF attacks. The results of our research could protect users by identifying and discouraging the use of Android applications that employ OAuth 2.0 for social login yet remain vulnerable to CSRF attacks.
   
+   
 ## 📞 Contact
 Feel free to drop me an [email](mailto:waris.dam@student.mahidol.ac.th) for any collaborations, opportunities, or chats over coffee!
 
