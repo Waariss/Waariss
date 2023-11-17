@@ -1,18 +1,23 @@
-# 👋 Hi, I’m @Waariss!
+Hi 👋 My name is Waaris
+==============================================================================================================================
 
-**Software Engineer | Cyber Security Enthusiast | AI Engineer**
+Software Engineer | Cyber Security Enthusiast | AI Engineer
+-----------------------------------------------------------
 
-I'm an ambitious software engineer with a passion for cybersecurity and AI. With experience in both research and practical application development, I'm always eager to tackle new challenges and collaborate on innovative projects.
+I'm an ambitious software engineer with a passion for cybersecurity and AI. With experience in both research and practical application development, I'm always eager to tackle new challenges and collaborate on innovative projects. 🌱 Currently learning at Faculty of Information and Communication Technology (ICT Mahidol)
 
-🌱 Currently learning at Faculty of Information and Communication Technology (ICT Mahidol)
-
-## 🌟 Visit My Personal Website 🌟
-For a comprehensive look at my portfolio, check out [my personal website](https://waris-damkham.netlify.app)! Dive deep into my journey, projects, and the technologies I've worked with.
+*   🌍  I'm based in Thailand 🇹🇭
+*   🖥️  See my portfolio at [My Personal Website](http://waris-damkham.netlify.app/#resume)
+*   ✉️  You can contact me at [waris.dam@student.mahidol.ac.th](mailto:waris.dam@student.mahidol.ac.th)
+*   🤝  I'm open to collaborating on Academic Research
 
 ## 🌐 Connect with me:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=222)](https://www.instagram.com/waaris_m/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=222)](https://www.linkedin.com/in/waris-damkham/)
 [![Personal's Website](https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=222)](https://waris-damkham.netlify.app)
+  <a href="https://tryhackme.com/p/waris.dam">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/waris.dam.png" alt="TryHackMe">
+  </a>
 
 ## 📈 My Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Waariss&theme=dark&background=000000)](https://git.io/streak-stats)
@@ -20,28 +25,9 @@ For a comprehensive look at my portfolio, check out [my personal website](https:
 
 ## 🛠 Languages and Tools:
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-plain-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <a href="https://tryhackme.com/p/waris.dam">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/waris.dam.png" alt="TryHackMe">
-  </a>
-</div>
+### Programming Languages
+
+
 
 ### 💼 Experience:
 
@@ -67,10 +53,6 @@ For a comprehensive look at my portfolio, check out [my personal website](https:
    - **Date**: Oct 2023
    - **Abstract**: OAuth 2.0, a prevalent authorization framework, can be vulnerable to cross-site request forgery (CSRF) attacks, thus requiring developers' due diligence during implementation in Android applications. A key countermeasure includes a state parameter in the URL during the login transition. However, lacking state parameter doesn't necessarily imply an inherent vulnerability to CSRF attacks. To investigate this further, we developed an Android application to analyse other Android applications using OAuth 2.0 with Google accounts, focusing primarily on the utilisation of the state parameter in CSRF attack prevention. Our investigation involves assessing the login procedures of applications via both the Chrome application and the default browser. Through this, we aim to identify the presence or absence of the state parameter and the authorization code, critical components in a robust CSRF defence strategy. Our findings allow us to evaluate if Android applications using OAuth 2.0 have basic protections against CSRF attacks. The results of our research could protect users by identifying and discouraging the use of Android applications that employ OAuth 2.0 for social login yet remain vulnerable to CSRF attacks.
   
-   
-## 📞 Contact
-Feel free to drop me an [email](mailto:waris.dam@student.mahidol.ac.th) for any collaborations, opportunities, or chats over coffee!
-
 ---
 
 🌟 Don't forget to star my repo if you found it interesting!
