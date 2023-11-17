@@ -12,9 +12,9 @@ I'm an ambitious software engineer with a passion for cybersecurity and AI. With
 *   🤝  I'm open to collaborating on Academic Research
 
 ## 🌐 Connect with me:
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=222)](https://www.instagram.com/waaris_m/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=222)](https://www.linkedin.com/in/waris-damkham/)
-[![Personal's Website](https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=222)](https://waris-damkham.netlify.app)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/waaris_m/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waris-damkham/)
+[![Personal's Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://waris-damkham.netlify.app)
   <a href="https://tryhackme.com/p/waris.dam">
     <img src="https://tryhackme-badges.s3.amazonaws.com/waris.dam.png" alt="TryHackMe">
   </a>
@@ -27,6 +27,83 @@ I'm an ambitious software engineer with a passion for cybersecurity and AI. With
 
 ### Programming Languages
 
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![C](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### Web Development
+
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Backend & Frameworks
+
+![Flask]()
+![Spring Boot]()
+![Postman]()
+
+### Deployment & Version Control
+
+![Gradle]()
+![Git]()
+![Firebase]()
+![AWS EC2]()
+![Nginx]()
+![Maven]()
+![Ant]()
+
+### Data Management & Search Engines
+
+![MongoDB]()
+![MySQL]()
+![Elasticsearch]()
+
+### Security & Authentication
+
+![OAuth 2.0]()
+![AES Encryption]()
+![Tor]()
+
+### Penetration Testing & Networking
+
+![Metasploit]()
+![Kali Linux]()
+![OWASP]()
+![Wireshark]()
+![nmap]()
+![John the Ripper]()
+![Ghostbuster]()
+![Hashcat]()
+
+### Machine & Deep Learning
+
+![TensorFlow]()
+![Keras]()
+![Scikit-learn]()
+![OpenCV]()
+![Plotly]()
+![Matplotlib]()
+![Seaborn]()
+![Albumentations]()
+![Pandas]()
+![NumPy]()
+![VGG16]()
+![ResNet50]()
+![YOLO]()
+![CNN]()
+![Darknet]()
+
+### Operating Systems
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 
 ### 💼 Experience:
