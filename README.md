@@ -106,28 +106,39 @@ I'm an ambitious software engineer with a passion for cybersecurity and AI. With
 
 ### 💼 Experience:
 
-1. **Detecting Vulnerable OAuth 2.0 Implementations in Android Applications** - *Ritsumeikan University · Internship*
-   - **Duration**: May 2023 - July 2023 · Shiga, Japan · On-site
-   - **Description**: I conducted research on the security vulnerabilities in Android apps that use OAuth 2.0 with Google accounts, with a focus on the risks of cross-site request forgery (CSRF). My findings were presented at the Workshop on Cyber Forensics, Security, and E-discovery, during the 23rd IEEE International Conference on Software Quality, Reliability, and Security in 2023. By developing an app and analyzing others, I evaluated critical components such as the state parameter and authorization code, which are essential for CSRF prevention. The study reveals the level of protection against CSRF in implementations of OAuth 2.0 on Android. Our goal is to enhance user safety by identifying vulnerable apps and emphasizing the necessity for robust security measures. This research establishes a benchmark for future security audits of apps.
-
-2. **Automated COVID-19 Screening Framework Using Deep CNN With Chest X-Ray Medical Images** - *National Central University · Internship*
-   - **Duration**: Jun 2022 - Jul 2022 · Taoyuan City, Taiwan · Remote
-   - **Description**: I contributed to a project on automated COVID-19 diagnosis using chest X-rays, presented at the 2022 6th International Conference on Information Technology (InCIT). We proposed an AI-based screening method utilizing transfer learning and deep neural networks. Using Grad-CAM visualization, our convolutional neural network model showcased superior performance in accuracy, precision, recall, and F-measure on public datasets. This work advanced early COVID-19 detection and highlighted my skills in AI, deep learning, and medical imaging.
+<table>
+  <tr>
+      <h3>🔍 Detecting Vulnerable OAuth 2.0 Implementations in Android Applications</h3>
+      <p><b>Ritsumeikan University · Internship</b></p>
+      <p><b>Duration</b>: May 2023 - July 2023 · Shiga, Japan · On-site</p>
+      <p>I conducted research on the security vulnerabilities in Android apps that use OAuth 2.0 with Google accounts, with a focus on the risks of cross-site request forgery (CSRF). My findings were presented at the Workshop on Cyber Forensics, Security, and E-discovery, during the 23rd IEEE International Conference on Software Quality, Reliability, and Security in 2023. By developing an app and analyzing others, I evaluated critical components such as the state parameter and authorization code, which are essential for CSRF prevention. The study reveals the level of protection against CSRF in implementations of OAuth 2.0 on Android. Our goal is to enhance user safety by identifying vulnerable apps and emphasizing the necessity for robust security measures. This research establishes a benchmark for future security audits of apps.</p>
+  </tr>
+  <tr>
+      <h3>Automated COVID-19 Screening Framework Using Deep CNN With Chest X-Ray Medical Images</h3>
+      <p><b>National Central University · Internship</b></p>
+      <p><b>Duration</b>: Jun 2022 - Jul 2022 · Taoyuan City, Taiwan · Remote</p>
+      <p>I contributed to a project on automated COVID-19 diagnosis using chest X-rays, presented at the 2022 6th International Conference on Information Technology (InCIT). We proposed an AI-based screening method utilizing transfer learning and deep neural networks. Using Grad-CAM visualization, our convolutional neural network model showcased superior performance in accuracy, precision, recall, and F-measure on public datasets. This work advanced early COVID-19 detection and highlighted my skills in AI, deep learning, and medical imaging.</p>
+  </tr>
+</table>
 
 ### 📚 Publications:
 
-1. **Automated COVID-19 screening framework via Deep Convolutional Neural Network with Chest X-ray Medical Images**
-   - **Publication**: IEEE
-   - **Date**: November 2022
-   - **Abstract**: An automated COVID-19 screening framework using chest X-ray images is proposed in this study. It leverages artificial intelligence techniques and transfer learning for accurate diagnosis. The framework extracts features using transfer learning and applies modified deep neural networks. Grad-CAM visualization supports the predicted diagnosis. Experimental results demonstrate superior performance compared to other deep learning techniques. This framework has the potential to aid in early COVID-19 diagnosis and alleviate the burden on radiologists.
-   - [🔗 Direct Link to the paper](https://doi.org/10.1109/InCIT56086.2022.10067528) 
-   - [![DOI](https://img.shields.io/badge/DOI-10.1109%2FInCIT56086.2022.10067528-blue)](https://doi.org/10.1109/InCIT56086.2022.10067528)
+<table>
+  <tr>
+      <h3>Automated COVID-19 screening framework via Deep Convolutional Neural Network with Chest X-ray Medical Images</h3>
+      <p><b>Publication</b>: IEEE</p>
+      <p><b>Date</b>: November 2022</p>
+      <p>An automated COVID-19 screening framework using chest X-ray images is proposed in this study. It leverages artificial intelligence techniques and transfer learning for accurate diagnosis. The framework extracts features using transfer learning and applies modified deep neural networks. Grad-CAM visualization supports the predicted diagnosis. Experimental results demonstrate superior performance compared to other deep learning techniques. This framework has the potential to aid in early COVID-19 diagnosis and alleviate the burden on radiologists.</p>
+      <a href="https://doi.org/10.1109/InCIT56086.2022.10067528"><img src="https://img.shields.io/badge/DOI-10.1109%2FInCIT56086.2022.10067528-blue" alt="DOI Badge"></a>
+  </tr>
+  <tr>
+      <h3>Detecting Vulnerable OAuth 2.0 Implementations in Android Applications</h3>
+      <p><b>Publication</b>: IEEE</p>
+      <p><b>Date</b>: October 2023</p>
+      <p>OAuth 2.0, a prevalent authorization framework, can be vulnerable to cross-site request forgery (CSRF) attacks, thus requiring developers' due diligence during implementation in Android applications. A key countermeasure includes a state parameter in the URL during the login transition. However, lacking state parameter doesn't necessarily imply an inherent vulnerability to CSRF attacks. To investigate this further, we developed an Android application to analyse other Android applications using OAuth 2.0 with Google accounts, focusing primarily on the utilisation of the state parameter in CSRF attack prevention. Our investigation involves assessing the login procedures of applications via both the Chrome application and the default browser. Through this, we aim to identify the presence or absence of the state parameter and the authorization code, critical components in a robust CSRF defence strategy. Our findings allow us to evaluate if Android applications using OAuth 2.0 have basic protections against CSRF attacks. The results of our research could protect users by identifying and discouraging the use of Android applications that employ OAuth 2.0 for social login yet remain vulnerable to CSRF attacks.</p>
+  </tr>
+</table>
 
-2. **Detecting Vulnerable OAuth 2.0 Implementations in Android Applications**
-   - **Publication**: IEEE
-   - **Date**: Oct 2023
-   - **Abstract**: OAuth 2.0, a prevalent authorization framework, can be vulnerable to cross-site request forgery (CSRF) attacks, thus requiring developers' due diligence during implementation in Android applications. A key countermeasure includes a state parameter in the URL during the login transition. However, lacking state parameter doesn't necessarily imply an inherent vulnerability to CSRF attacks. To investigate this further, we developed an Android application to analyse other Android applications using OAuth 2.0 with Google accounts, focusing primarily on the utilisation of the state parameter in CSRF attack prevention. Our investigation involves assessing the login procedures of applications via both the Chrome application and the default browser. Through this, we aim to identify the presence or absence of the state parameter and the authorization code, critical components in a robust CSRF defence strategy. Our findings allow us to evaluate if Android applications using OAuth 2.0 have basic protections against CSRF attacks. The results of our research could protect users by identifying and discouraging the use of Android applications that employ OAuth 2.0 for social login yet remain vulnerable to CSRF attacks.
-  
 ---
 
 🌟 Don't forget to star my repo if you found it interesting!
