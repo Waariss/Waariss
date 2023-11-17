@@ -67,20 +67,20 @@ I'm an ambitious software engineer with a passion for cybersecurity and AI. With
 
 ### Security & Authentication
 
-![OAuth 2.0]()
-![AES Encryption]()
+![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-26A69A?style=for-the-badge&logo=oauth&logoColor=white)
+![AES Encryption](https://img.shields.io/badge/AES_Encryption-7E57C2?style=for-the-badge&logo=aes&logoColor=white)
 ![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)
 
 ### Penetration Testing & Networking
 
-![Metasploit]()
+![Metasploit](https://img.shields.io/badge/Metasploit-E53935?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-![OWASP]()
-![Wireshark]()
-![nmap]()
-![John the Ripper]()
-![Ghostbuster]()
-![Hashcat]()
+![OWASP](https://img.shields.io/badge/OWASP-424242?style=for-the-badge&logo=owasp&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![nmap](https://img.shields.io/badge/nmap-1E88E5?style=for-the-badge&logo=nmap&logoColor=white)
+![John the Ripper](https://img.shields.io/badge/John_the_Ripper-FFB300?style=for-the-badge)
+![Hashcat](https://img.shields.io/badge/Hashcat-EF6C00?style=for-the-badge)
+![Ghostbuster](https://img.shields.io/badge/Ghostbuster-00ACC1?style=for-the-badge)
 
 ### Machine & Deep Learning
 
@@ -90,12 +90,12 @@ I'm an ambitious software engineer with a passion for cybersecurity and AI. With
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Seaborn]()
-![Albumentations]()
+![Seaborn](https://img.shields.io/badge/Seaborn-004D40?style=for-the-badge)
+![Albumentations](https://img.shields.io/badge/Albumentations-1B5E20?style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![YOLO]()
-![Darknet]()
+![YOLO](https://img.shields.io/badge/YOLO-F57F17?style=for-the-badge&logo=yolo&logoColor=white)
+![Darknet](https://img.shields.io/badge/Darknet-212121?style=for-the-badge&logo=darknet&logoColor=white)
 
 ### Operating Systems
 
