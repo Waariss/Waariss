@@ -1,12 +1,8 @@
 Hi 👋 My name is Waaris
 ==============================================================================================================================
 
-Software Engineer | Cyber Security Enthusiast | AI Engineer
------------------------------------------------------------
+I'm an ambitious **Software Engineer** with a passion for **Cybersecurity**, **AI**, and **DevOps**. With experience in both research and practical application development, I'm always eager to tackle new challenges and collaborate on innovative projects. 
 
-I'm an ambitious software engineer with a passion for Cybersecurity, AI, and DevOps. With experience in both research and practical application development, I'm always eager to tackle new challenges and collaborate on innovative projects. 
-
-*   🌱 Currently learning at Faculty of Information and Communication Technology (ICT Mahidol)
 *   🌍  I'm based in Thailand 🇹🇭
 *   🖥️  See my portfolio at [My Personal Website](http://waris-damkham.netlify.app/#resume)
 *   ✉️  You can contact me at [waris.dam@student.mahidol.ac.th](mailto:waris.dam@student.mahidol.ac.th)
@@ -17,69 +13,77 @@ I'm an ambitious software engineer with a passion for Cybersecurity, AI, and Dev
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waris-damkham/)
 [![Personal's Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://waris-damkham.netlify.app)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-C71A36?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/waris.dam)
+[![Credly](https://img.shields.io/badge/Credly-E95420?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/waris-damkham.196ff471)
 
-## 📈 My Stats:
+## 📈 My Coding Journey in Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Waariss&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Waariss&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🛠 Languages and Tools:
+## 🛠 Tech Stack and Tools:
 
 ### Programming Languages
 
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![C](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Markdown](https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
 ### Web Development
 
-![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![p5js](https://img.shields.io/badge/-p5js-ED225D?style=for-the-badge&logo=p5.js&logoColor=white)
 
-### Backend & Frameworks
+### Backend, Frameworks & Testing
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![pytest](https://img.shields.io/badge/-pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Selenium WebDriver](https://img.shields.io/badge/-Selenium%20WebDriver-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Junit](https://img.shields.io/badge/-Junit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 
-### Deployment & Version Control
+### DevOps, Deployment & Version Control
 
-![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![AWS EC2](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
-![Ant](https://img.shields.io/badge/Apache%20Ant-A81C7D?style=for-the-badge&logo=Apache%20Ant&logoColor=white)
+![Gradle](https://img.shields.io/badge/-Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![AWS EC2](https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![PM2](https://img.shields.io/badge/-PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
+![Nginx](https://img.shields.io/badge/-nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Maven](https://img.shields.io/badge/-Apache%20Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![Ant](https://img.shields.io/badge/-Apache%20Ant-A81C7D?style=for-the-badge&logo=apache-ant&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Robot Framework](https://img.shields.io/badge/-Robot%20Framework-00BFFF?style=for-the-badge&logo=robot-framework&logoColor=white)
 
 ### Data Management & Search Engines
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
 ### Security & Authentication
 
-![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-26A69A?style=for-the-badge&logo=oauth&logoColor=white)
-![AES Encryption](https://img.shields.io/badge/AES_Encryption-7E57C2?style=for-the-badge&logo=aes&logoColor=white)
-![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)
+![OAuth 2.0](https://img.shields.io/badge/-OAuth%202.0-26A69A?style=for-the-badge&logo=oauth&logoColor=white)
+![AES Encryption](https://img.shields.io/badge/-AES%20Encryption-7E57C2?style=for-the-badge&logo=aes&logoColor=white)
+![Tor](https://img.shields.io/badge/-Tor-7D4698?style=for-the-badge&logo=tor-browser&logoColor=white)
 
 ### Penetration Testing & Networking
 
-![Metasploit](https://img.shields.io/badge/Metasploit-E53935?style=for-the-badge&logo=metasploit&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-424242?style=for-the-badge&logo=owasp&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![nmap](https://img.shields.io/badge/nmap-1E88E5?style=for-the-badge&logo=nmap&logoColor=white)
-![John the Ripper](https://img.shields.io/badge/John_the_Ripper-FFB300?style=for-the-badge)
-![Hashcat](https://img.shields.io/badge/Hashcat-EF6C00?style=for-the-badge)
-![Ghostbuster](https://img.shields.io/badge/Ghostbuster-00ACC1?style=for-the-badge)
+![Metasploit](https://img.shields.io/badge/-Metasploit-E53935?style=for-the-badge&logo=metasploit&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![OWASP](https://img.shields.io/badge/-OWASP-424242?style=for-the-badge&logo=owasp&logoColor=white)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![nmap](https://img.shields.io/badge/-nmap-1E88E5?style=for-the-badge&logo=nmap&logoColor=white)
+![John the Ripper](https://img.shields.io/badge/-John%20the%20Ripper-FFB300?style=for-the-badge)
+![Hashcat](https://img.shields.io/badge/-Hashcat-EF6C00?style=for-the-badge)
+![Ghostbuster](https://img.shields.io/badge/-Ghostbuster-00ACC1?style=for-the-badge)
 
 ### Machine & Deep Learning
 
@@ -101,42 +105,52 @@ I'm an ambitious software engineer with a passion for Cybersecurity, AI, and Dev
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Zsh](https://img.shields.io/badge/Zsh-000000?style=for-the-badge&logo=zsh&logoColor=white)
 
+## 🎓 Education
 
-### 💼 Experience:
+### 🏫 Faculty of Information and Communication Technology (ICT Mahidol)
+- **Degree**: Bachelor of Science in Information and Communication Technology
+- **Period**: 2020 - 2024
+- **Location**: Mahidol University, Thailand 🇹🇭
+- **Details**: Specializing in Software Engineering, Cybersecurity, and AI. Engaged in various projects and research activities.
 
-<table>
-  <tr>
-      <h3>🔍 Detecting Vulnerable OAuth 2.0 Implementations in Android Applications</h3>
-      <p><b>Ritsumeikan University · Internship</b></p>
-      <p><b>Duration</b>: May 2023 - July 2023 · Shiga, Japan · On-site</p>
-      <p>I conducted research on the security vulnerabilities in Android apps that use OAuth 2.0 with Google accounts, with a focus on the risks of cross-site request forgery (CSRF). My findings were presented at the Workshop on Cyber Forensics, Security, and E-discovery, during the 23rd IEEE International Conference on Software Quality, Reliability, and Security in 2023. By developing an app and analyzing others, I evaluated critical components such as the state parameter and authorization code, which are essential for CSRF prevention. The study reveals the level of protection against CSRF in implementations of OAuth 2.0 on Android. Our goal is to enhance user safety by identifying vulnerable apps and emphasizing the necessity for robust security measures. This research establishes a benchmark for future security audits of apps.</p>
-  </tr>
-  <tr>
-      <h3>Automated COVID-19 Screening Framework Using Deep CNN With Chest X-Ray Medical Images</h3>
-      <p><b>National Central University · Internship</b></p>
-      <p><b>Duration</b>: Jun 2022 - Jul 2022 · Taoyuan City, Taiwan · Remote</p>
-      <p>I contributed to a project on automated COVID-19 diagnosis using chest X-rays, presented at the 2022 6th International Conference on Information Technology (InCIT). We proposed an AI-based screening method utilizing transfer learning and deep neural networks. Using Grad-CAM visualization, our convolutional neural network model showcased superior performance in accuracy, precision, recall, and F-measure on public datasets. This work advanced early COVID-19 detection and highlighted my skills in AI, deep learning, and medical imaging.</p>
-  </tr>
-</table>
+### 🏆 Certifications
 
-### 📚 Publications:
+- **AWS Academy Graduate - AWS Academy Cloud Foundations** - Amazon Web Services Training and Certification
+- **Junior Cybersecurity Analyst Career Path** - Cisco
+- **Google Cybersecurity Certificate** - Coursera
+- **Open Source Software Development, Linux and Git Specialization** - Coursera
+- **Meta Back-End Developer Certificate** - Coursera
+- **Meta Front-End Developer Certificate** - Coursera
+- **Meta Full-Stack Engineer Certificate** - Coursera
+- **Google IT Support Certificate** - Coursera
 
-<table>
-  <tr>
-      <h3>Automated COVID-19 screening framework via Deep Convolutional Neural Network with Chest X-ray Medical Images</h3>
-      <p><b>Publication</b>: IEEE</p>
-      <p><b>Date</b>: November 2022</p>
-      <p>An automated COVID-19 screening framework using chest X-ray images is proposed in this study. It leverages artificial intelligence techniques and transfer learning for accurate diagnosis. The framework extracts features using transfer learning and applies modified deep neural networks. Grad-CAM visualization supports the predicted diagnosis. Experimental results demonstrate superior performance compared to other deep learning techniques. This framework has the potential to aid in early COVID-19 diagnosis and alleviate the burden on radiologists.</p>
-      <a href="https://doi.org/10.1109/InCIT56086.2022.10067528"><img src="https://img.shields.io/badge/DOI-10.1109%2FInCIT56086.2022.10067528-blue" alt="DOI Badge"></a>
-  </tr>
-  <tr>
-      <h3>Detecting Vulnerable OAuth 2.0 Implementations in Android Applications</h3>
-      <p><b>Publication</b>: IEEE</p>
-      <p><b>Date</b>: October 2023</p>
-      <p>OAuth 2.0, a prevalent authorization framework, can be vulnerable to cross-site request forgery (CSRF) attacks, thus requiring developers' due diligence during implementation in Android applications. A key countermeasure includes a state parameter in the URL during the login transition. However, lacking state parameter doesn't necessarily imply an inherent vulnerability to CSRF attacks. To investigate this further, we developed an Android application to analyse other Android applications using OAuth 2.0 with Google accounts, focusing primarily on the utilisation of the state parameter in CSRF attack prevention. Our investigation involves assessing the login procedures of applications via both the Chrome application and the default browser. Through this, we aim to identify the presence or absence of the state parameter and the authorization code, critical components in a robust CSRF defence strategy. Our findings allow us to evaluate if Android applications using OAuth 2.0 have basic protections against CSRF attacks. The results of our research could protect users by identifying and discouraging the use of Android applications that employ OAuth 2.0 for social login yet remain vulnerable to CSRF attacks.</p>
-  </tr>
-</table>
+## 💼 Professional Highlights
+
+#### 🔍 Detecting Vulnerable OAuth 2.0 Implementations in Android Applications
+- **Institution**: Ritsumeikan University · Internship
+- **Duration**: May 2023 - July 2023 · Shiga, Japan · On-site
+- **Description**: Conducted research on security vulnerabilities in Android apps using OAuth 2.0 with Google accounts, focusing on CSRF risks. Presented findings at the Workshop on Cyber Forensics, Security, and E-discovery during the 23rd IEEE International Conference on Software Quality, Reliability, and Security in 2023. Developed an app and analyzed others to evaluate components crucial for CSRF prevention, like the state parameter and authorization code. Aimed to enhance user safety by identifying vulnerable apps and promoting robust security measures.
+
+#### 🦠 Automated COVID-19 Screening Framework Using Deep CNN With Chest X-Ray Medical Images
+- **Institution**: National Central University · Internship
+- **Duration**: Jun 2022 - Jul 2022 · Taoyuan City, Taiwan · Remote
+- **Description**: Contributed to an automated COVID-19 diagnosis project using chest X-rays, presented at the 2022 6th International Conference on Information Technology (InCIT). Developed an AI-based screening method using transfer learning and deep neural networks. Employed Grad-CAM visualization, achieving high accuracy, precision, recall, and F-measure on public datasets. Showcased skills in AI, deep learning, and medical imaging.
+
+## 📚 Publications
+
+#### 🦠 Automated COVID-19 Screening Framework via Deep Convolutional Neural Network with Chest X-ray Medical Images
+- **Publication**: IEEE
+- **Date**: November 2022
+- **Summary**: Proposed an automated COVID-19 screening framework using AI and transfer learning with chest X-ray images. Utilized modified deep neural networks and Grad-CAM visualization for diagnosis prediction. Demonstrated superior performance compared to other deep learning techniques, aiding early COVID-19 detection.
+
+#### 🔍 Detecting Vulnerable OAuth 2.0 Implementations in Android Applications
+- **Publication**: IEEE
+- **Date**: October 2023
+- **Summary**: Researched the vulnerabilities of OAuth 2.0 in Android apps regarding CSRF attacks. Developed an Android app to analyze the use of state parameters in other apps, focusing on CSRF attack prevention. Evaluated basic CSRF protections in applications using OAuth 2.0, aiming to protect users from vulnerable apps.
+
 
 ---
 
