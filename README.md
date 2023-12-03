@@ -4,8 +4,9 @@ Hi 👋 My name is Waaris
 Software Engineer | Cyber Security Enthusiast | AI Engineer
 -----------------------------------------------------------
 
-I'm an ambitious software engineer with a passion for cybersecurity and AI. With experience in both research and practical application development, I'm always eager to tackle new challenges and collaborate on innovative projects. 🌱 Currently learning at Faculty of Information and Communication Technology (ICT Mahidol)
+I'm an ambitious software engineer with a passion for Cybersecurity, AI, and DevOps. With experience in both research and practical application development, I'm always eager to tackle new challenges and collaborate on innovative projects. 
 
+*   🌱 Currently learning at Faculty of Information and Communication Technology (ICT Mahidol)
 *   🌍  I'm based in Thailand 🇹🇭
 *   🖥️  See my portfolio at [My Personal Website](http://waris-damkham.netlify.app/#resume)
 *   ✉️  You can contact me at [waris.dam@student.mahidol.ac.th](mailto:waris.dam@student.mahidol.ac.th)
