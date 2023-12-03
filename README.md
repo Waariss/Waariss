@@ -15,10 +15,6 @@ I'm an ambitious **Software Engineer** with a passion for **Cybersecurity**, **A
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-C71A36?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/waris.dam)
 [![Credly](https://img.shields.io/badge/Credly-E95420?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/waris-damkham.196ff471)
 
-## 📈 My Coding Journey in Stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Waariss&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Waariss&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 🛠 Tech Stack and Tools:
 
 ### Programming Languages
