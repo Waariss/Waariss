@@ -16,7 +16,7 @@ I'm an ambitious software engineer with a passion for Cybersecurity, AI, and Dev
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/waaris_m/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waris-damkham/)
 [![Personal's Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://waris-damkham.netlify.app)
-[![TryHackMe](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/waris.dam)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-C71A36?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/waris.dam)
 
 ## 📈 My Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Waariss&theme=dark&background=000000)](https://git.io/streak-stats)
