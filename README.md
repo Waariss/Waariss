@@ -1,7 +1,7 @@
 Hi 👋 My name is Waaris
 ==============================================================================================================================
 
-I'm an ambitious **Software Engineer** with a passion for **Cybersecurity**, **AI**, and **DevOps**. With experience in both research and practical application development, I'm always eager to tackle new challenges and collaborate on innovative projects. 
+I'm an ambitious **Software Engineer** 🖥️  with a passion for **Cybersecurity** 🔒 , **AI** 🤖, and **DevOps** ⚙️. With experience in both research and practical application development, I'm always eager to tackle new challenges and collaborate on innovative projects.
 
 *   🌍  I'm based in Thailand 🇹🇭
 *   🖥️  See my portfolio at [My Personal Website](http://waris-damkham.netlify.app/#resume)
