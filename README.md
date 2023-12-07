@@ -1,4 +1,4 @@
-Hi 👋 My name is Waaris
+Hi 👋 My name is Waris Damkham (Waariss)
 ==============================================================================================================================
 
 I'm an ambitious **Software Engineer** 🖥️  with a passion for **Cybersecurity** 🔒 , **AI** 🤖, and **DevOps** ⚙️. With experience in both research and practical application development, I'm always eager to tackle new challenges and collaborate on innovative projects.
