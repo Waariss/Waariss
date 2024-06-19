@@ -9,7 +9,6 @@ I'm an ambitious **Software Engineer** 🖥️  with a passion for **Linux** �
 *   🤝  I'm open to collaborating on Academic Research
 
 ## 🌐 Connect with me:
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/waaris_m/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waris-damkham/)
 [![Personal's Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://waris-damkham.netlify.app)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-C71A36?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/waris.dam)
