@@ -1,7 +1,7 @@
 Hi 👋 My name is Waris Damkham (Waariss)
 ==============================================================================================================================
 
-I'm an ambitious **Software Engineer** 🖥️  with a passion for **Linux** 🐧 , **Cybersecurity** 🔒 , **AI** 🤖, and **DevOps** ⚙️. With experience in both research and practical application development, I'm always eager to tackle new challenges and collaborate on innovative projects.
+I am an Offensive Security Engineer, Penetration Tester, and AI Security Researcher with a strong passion for Linux 🐧, Cybersecurity 🔒, AI 🤖, and DevOps ⚙️. My expertise spans Offensive Security, AI-driven threat research, Web security, and Mobile security, with hands-on experience in penetration testing and security assessments. I have led significant research projects, including the development of an Automated COVID-19 Screening Framework Using Deep CNN With Chest X-Ray Medical Images, research on Detecting Vulnerable OAuth 2.0 Implementations in Android Applications, and the creation of Practical Mobile-Based Services for Identification of Chicken Diseases From Fecal Images. These projects have been presented at conferences and featured in publications. I am actively seeking full-time opportunities where I can continue to grow, gain valuable industry insights, and contribute innovatively to a collaborative security research environment.
 
 *   🌍  I'm based in Thailand 🇹🇭
 *   🖥️  See my portfolio at [My Personal Website](http://waris-damkham.netlify.app/#resume)
