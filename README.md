@@ -31,13 +31,11 @@ I focus on **Red Team operations, Application Security, AI pentesting, and secur
 
 ## Performance Snapshot (As Of March 2026)
 
-<table>
+<table align="center">
   <tr>
-    <td><b>27</b><br/>CVEs Published/Credited</td>
-    <td><b>38</b><br/>Penetration Tests Delivered</td>
-    <td><b>12</b><br/>Major Security Assessments Owned</td>
-    <td><b>3</b><br/>IEEE Publications</td>
-    <td><b>7</b><br/>Talks / Community Sessions</td>
+    <td align="center"><b>27</b><br/>CVEs Published/Credited</td>
+    <td align="center"><b>3</b><br/>IEEE Publications</td>
+    <td align="center"><b>7</b><br/>Talks / Community Sessions</td>
   </tr>
 </table>
 
