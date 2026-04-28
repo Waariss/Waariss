@@ -42,7 +42,7 @@ I focus on **Red Team operations, Application Security, AI pentesting, and secur
 ## Featured Work
 
 - **Oblivion Token: M365 Conditional Access Policy Bypass OST**
-  Accepted at [Black Hat Asia 2026 Arsenal](https://blackhat.com/asia-26/arsenal/schedule/#oblivion-token--m365-conditional-access-policy-bypass-ost-offensive-tooling-49920) and [DEF CON Singapore 2026 Demo Labs](https://defcon.org/html/defcon-singapore/dc-singapore-demolabs.html)
+  Accepted at [Black Hat Asia 2026 Arsenal](https://blackhat.com/asia-26/arsenal/schedule/presenters.html#waris-damkham-52078) and [DEF CON Singapore 2026 Demo Labs](https://defcon.org/html/defcon-singapore/dc-singapore-demolabs.html)
 - **NCSA AI CTF 2026 (Thailand)**
   Challenge author representing KBTG with AI-security and prompt-attack scenarios
 - **IEEE Research Track**
