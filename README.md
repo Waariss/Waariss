@@ -36,27 +36,25 @@ I focus on **offensive security, red teaming, AI security, identity and M365 sec
   <tr>
     <td align="center"><b>32</b><br/>CVEs Published/Credited</td>
     <td align="center"><b>3</b><br/>IEEE Publications</td>
-    <td align="center"><b>20+</b><br/>Selected Certifications</td>
+    <td align="center"><b>18</b><br/>Featured Credentials</td>
   </tr>
   <tr>
     <td align="center"><b>10</b><br/>Talks / Contributions</td>
-    <td align="center"><b>20+</b><br/>Projects</td>
+    <td align="center"><b>Research &amp; Tooling</b><br/>Public Projects</td>
     <td align="center"><b>40+</b><br/>Security Assessments</td>
   </tr>
 </table>
 
 ## Featured Work
 
-- **Oblivion Token: M365 Conditional Access Policy Bypass OST**
-  Offensive research utility for practical and repeatable Microsoft 365 Conditional Access edge-case testing, presented at [Black Hat Asia 2026 Arsenal](https://blackhat.com/asia-26/arsenal/schedule/presenters.html#waris-damkham-52078) and [DEF CON Singapore 2026 Demo Labs](https://defcon.org/html/defcon-singapore/dc-singapore-demolabs.html).
-- **jailbreakit**
-  Go CLI helper for authorized iOS pentesting workflows, device detection, jailbreak compatibility checks, and guided palera1n/Dopamine setup.
-- **whitebox-secure-scan**
-  Static source-code security analysis tool for identifying vulnerabilities in whitebox engagements.
-- **UploadSmith**
-  Caido plugin for faster file-upload testing with multipart Content-Type mutation, filename extension bypass presets, and magic-byte helpers.
-- **IPA-Lens**
-  iOS IPA inspection and security analysis tool for mobile security assessments.
+- **[Oblivion Token: M365 Conditional Access Policy Bypass OST](https://github.com/Waariss/OblivionToken)**
+  Offensive research utility for practical and repeatable Microsoft 365 Conditional Access edge-case testing, presented at Black Hat Asia 2026 Arsenal and DEF CON Singapore 2026 Demo Labs.
+- **[whitebox-secure-scan](https://github.com/Waariss/whitebox-secure-scan)**
+  Offline, read-only white-box secure-code triage / static-analysis tooling for penetration testers.
+- **[jailbreakit](https://github.com/Waariss/jailbreakit)**
+  Go CLI for authorized iOS pentest lab readiness, jailbreak compatibility, Frida/Objection, SSH, iproxy and IPA-testing workflows.
+- **[UploadSmith](https://github.com/Waariss/uploadsmith-caido)**
+  Caido plugin for file-upload security testing, including multipart Content-Type mutation, filename-extension bypass presets and magic-byte helpers.
 - **NCSA AI CTF 2026 (Thailand)**
   Challenge author representing KBTG for Thailand's first Cyber AI CTF, with AI-security and prompt-attack scenarios.
 
@@ -103,12 +101,12 @@ I focus on **offensive security, red teaming, AI security, identity and M365 sec
 <p align="center">
   <a href="https://credentials.offsec.com/3662edd7-f74b-4afc-89be-6343e301ac16#acc.z5HkIjF6"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/163229512" width="92" alt="OSCP+" /></a>
   <a href="https://credentials.offsec.com/f4a60a23-7c81-4c93-83da-68059488a45a#acc.RfhgV7DF"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/163229530" width="92" alt="OSCP" /></a>
-  <a href="https://www.credly.com/badges/ddd8940f-ad73-4221-9f5d-bdaf51ed1e2a/public_url"><img src="https://images.credly.com/size/680x680/images/e63aa507-b974-4e67-bae6-1e425f6e2a99/image.png" width="92" alt="CPTS" /></a>
+  <a href="https://profile.hackthebox.com/profile/019c5786-35c7-7398-ad5e-32d60b572cdb/certificate/HTBCERT-37D1E2E2E2"><img src="https://images.credly.com/size/680x680/images/e63aa507-b974-4e67-bae6-1e425f6e2a99/image.png" width="92" alt="CPTS" /></a>
   <a href="https://certified.tcm-sec.com/57766f22-43d0-4c28-873d-b7e9c02bb039#acc.Hd5EIsLo"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/134181811" width="92" alt="PNPT" /></a>
   <a href="https://www.credential.net/3f3ce36c-11f4-460f-b1f0-206a537d9629#acc.eQDPI2nG"><img src="https://waris-damkham.netlify.app/badges/crtpimg.png" width="92" alt="CRTP" /></a>
   <a href="https://www.credential.net/69f55433-02ba-4f9a-8bb4-c885b6024689#acc.1heECO9M"><img src="https://waris-damkham.netlify.app/badges/CARTP.png" width="92" alt="CARTP" /></a>
   <a href="https://portswigger.net/web-security/e/c/2a628f7fb6d7dd35"><img src="https://waris-damkham.netlify.app/badges/burp-suite-certified-color-large.png" width="92" alt="BSCP" /></a>
-  <a href="https://www.credly.com/badges/36af3daf-dac7-4b20-a1da-96da19bb1822/public_url"><img src="https://images.credly.com/size/340x340/images/46525b6b-c65b-45b4-ae45-420dba5af307/blob" width="92" alt="CWES" /></a>
+  <a href="https://profile.hackthebox.com/profile/019c5786-35c7-7398-ad5e-32d60b572cdb/certificate/HTBCERT-98526F988E"><img src="https://images.credly.com/size/340x340/images/46525b6b-c65b-45b4-ae45-420dba5af307/blob" width="92" alt="CWES" /></a>
   <a href="https://certs.ine.com/d9490b0e-88d0-4483-a7cc-aefc22ac8de6#acc.BFI2SUWM"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/135650894" width="92" alt="eWPTX" /></a>
 </p>
 
@@ -116,10 +114,11 @@ I focus on **offensive security, red teaming, AI security, identity and M365 sec
   <a href="https://www.credential.net/ac0e9b28-11e1-4deb-8bb8-77e0a2320fdd#acc.2N5Q0FMj"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/183101708" width="92" alt="PAPA" /></a>
   <a href="https://certified.tcm-sec.com/01b1a674-b38f-4bee-8d4c-cd45a5d60c4d#acc.e1WhmRPx"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/124520643" width="92" alt="PMPA" /></a>
   <a href="https://www.credly.com/badges/1d423a7e-0997-43b2-9d9e-8e9cae169452/public_url"><img src="https://images.credly.com/size/680x680/images/304d90d7-289f-4f09-81d6-b2fe9954bcc9/image.png" width="92" alt="ASCP" /></a>
-  <a href="https://www.credly.com/badges/cdsa"><img src="https://images.credly.com/size/340x340/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" width="92" alt="CDSA" /></a>
+  <a href="https://profile.hackthebox.com/profile/019c5786-35c7-7398-ad5e-32d60b572cdb/certificate/HTBCERT-28B8525C71"><img src="https://images.credly.com/images/e78adea1-f60b-4991-b5d5-3427140c7c1d/image.png" width="92" alt="CDSA" /></a>
   <a href="https://certified.tcm-sec.com/e944ad55-2d3c-4af4-a11e-c56c9dfede4a"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/155081719" width="92" alt="PSAA" /></a>
-  <a href="https://www.credly.com/badges/37645b13-29ce-4f11-898b-2ca933d3e603/public_url"><img src="https://images.credly.com/size/680x680/images/95043c37-e916-4e4e-96ab-06fb66056648/blob" width="92" alt="CJCA" /></a>
+  <a href="https://profile.hackthebox.com/profile/019c5786-35c7-7398-ad5e-32d60b572cdb/certificate/HTBCERT-718173CC77"><img src="https://images.credly.com/size/680x680/images/95043c37-e916-4e4e-96ab-06fb66056648/blob" width="92" alt="CJCA" /></a>
   <a href="https://assets.tryhackme.com/certification-certificate/6868034812c00e6f24504db3.pdf"><img src="https://images.credly.com/size/340x340/images/54525e33-85d1-405c-a68c-1e4dd9c7f57f/blob" width="92" alt="PT1" /></a>
+  <a href="https://www.credly.com/badges/f5642804-65a0-44a0-bffb-cca96bf3c267/public_url"><img src="https://images.credly.com/size/340x340/images/44994cda-b5b0-44cb-9a6d-d29b57163073/image.png" width="92" alt="Cloud Digital Leader" /></a>
   <a href="https://www.credly.com/badges/0a69a68f-97e3-4f7f-8069-9e101a895a11/public_url"><img src="https://waris-damkham.netlify.app/badges/GHF.png" width="92" alt="GHF" /></a>
 </p>
 
@@ -142,6 +141,7 @@ I focus on **offensive security, red teaming, AI security, identity and M365 sec
 
 - **Red x Blue Pill 2026** — *Your Clients Think MFA Means Secure. Prove Them Wrong: Systematic M365 Conditional Access Bypass via Microsoft First-Party Apps*
   📅 12 Sep 2026
+  [Facebook](https://www.facebook.com/share/v/1F9tSqcRvt) · [LinkedIn](https://www.linkedin.com/posts/waris-damkham_redxbluepill2026-2600thailand-cybersecurity-ugcPost-7484609567113367552-4qfb)
 
 ## Selected Research Outputs
 
