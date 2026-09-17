@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=900&color=60A5FA&center=true&vCenter=true&width=980&lines=Red+Teaming+%E2%80%A2+AI+Security+%E2%80%A2+Identity+%26+AppSec;Black+Hat+Asia+2026+Arsenal+%7C+DEF+CON+Singapore+2026+Demo+Labs;32+CVEs+%7C+3+IEEE+Publications+%7C+Security+Tooling" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=900&color=60A5FA&center=true&vCenter=true&width=980&lines=Red+Teaming+%E2%80%A2+AI+Security+%E2%80%A2+Identity+%26+AppSec;Black+Hat+Asia+2026+Arsenal+%7C+DEF+CON+Singapore+2026+Demo+Labs;33+CVEs+%7C+3+IEEE+Publications+%7C+Security+Tooling" alt="typing" />
 </p>
 
 <p align="center">
@@ -24,23 +24,24 @@
 ## Executive Summary
 
 I am **Waris Damkham (Waariss)**, a **Security Research Engineer** based in Bangkok, Thailand.
-I focus on **offensive security, red teaming, AI security, identity and M365 security, application security, vulnerability research, and security tooling** — with an emphasis on research-driven, practical security outcomes.
+My background spans **vulnerability research, red teaming, AI security, identity security, application security, and security tooling**, including end-to-end assessments across web, API, mobile, network, and identity environments.
 
-- Current: **Offensive Security Engineer @ KASIKORN Business-Technology Group (KBTG)** (Nov 2024 - Present)
-- Focus in 2026: **AI red teaming, Microsoft 365 Conditional Access edge-case research, prompt-attack simulation, vulnerability research, and scalable security tooling**
-- Delivery: **40+ penetration tests, 40+ executive/technical summaries, and 25+ stakeholder briefings**
+- Current: **Cyber Security Engineer @ Cyber Test Systems** (Sep 2026 - Present)
+- Previous: **Offensive Security Engineer @ KASIKORN Business-Technology Group (KBTG)** (Nov 2024 - Sep 2026)
+- Research: Creator of **Oblivion Token**, presented at Black Hat Asia 2026 Arsenal and DEF CON Singapore 2026 Demo Labs; speaker at Red x Blue Pill 2026 and upcoming speaker at Black Hat India 2026 Briefings
+- Delivery: **45+ penetration tests, 40+ executive/technical summaries, and 25+ stakeholder briefings**
 
 ## Performance Snapshot (Website Data: 2026)
 
 <table align="center">
   <tr>
-    <td align="center"><b>32</b><br/>CVEs Published/Credited</td>
+    <td align="center"><b>33</b><br/>CVEs Published/Credited</td>
     <td align="center"><b>3</b><br/>IEEE Publications</td>
     <td align="center"><b>18</b><br/>Featured Credentials</td>
   </tr>
   <tr>
     <td align="center"><b>10</b><br/>Talks / Contributions</td>
-    <td align="center"><b>Research &amp; Tooling</b><br/>Public Projects</td>
+    <td align="center"><b>20</b><br/>Public Projects</td>
     <td align="center"><b>40+</b><br/>Security Assessments</td>
   </tr>
 </table>
@@ -55,6 +56,8 @@ I focus on **offensive security, red teaming, AI security, identity and M365 sec
   Go CLI for authorized iOS pentest lab readiness, jailbreak compatibility, Frida/Objection, SSH, iproxy and IPA-testing workflows.
 - **[UploadSmith](https://github.com/Waariss/uploadsmith-caido)**
   Caido plugin for file-upload security testing, including multipart Content-Type mutation, filename-extension bypass presets and magic-byte helpers.
+- **[Meeting Shrinker](https://github.com/Waariss/meeting-shrinker)**
+  Browser-first tool for compressing recordings, extracting audio, cleaning transcripts, and preparing Thai/English meeting content for NotebookLM while processing files locally by default.
 - **NCSA AI CTF 2026 (Thailand)**
   Challenge author representing KBTG for Thailand's first Cyber AI CTF, with AI-security and prompt-attack scenarios.
 
@@ -132,16 +135,15 @@ I focus on **offensive security, red teaming, AI security, identity and M365 sec
 - **ICT Mahidol Cybersecurity Club** — Real-World Cybersecurity Without Filters
 - **KBTG Knowledge Sharing 2025** — AI Security Unmasked: The Hidden Danger Behind Your AI Tools
 - **TBCert Monthly Meeting 2025** — AI Security Research: The Rise of AI Threat
+- **Red x Blue Pill 2026** — *Your Clients Think MFA Means Secure. Prove Them Wrong: Systematic M365 Conditional Access Bypass via Microsoft First-Party Apps*
+  📅 12 Sep 2026
+  [Facebook](https://www.facebook.com/share/v/1F9tSqcRvt) · [LinkedIn](https://www.linkedin.com/posts/waris-damkham_redxbluepill2026-2600thailand-securityresearch-activity-7504743240848535552-5re7)
 
 ### Upcoming / Accepted
 
 - **Black Hat India 2026 Briefings** — *Policy per App, Trust per Family: Cross-Application Privilege Amplification in Microsoft 365*
   📅 30 Oct 2026 · Track 2 · 16:00 IST · Bengaluru, India
   [Official session page](https://www.blackhat-india.com/index.php?task=briefings-schedule#policy-per-app-trust-per-family-cross-application-privilege-amplification-in-microsoft-365-50026) · [Black Hat India announcement](https://www.linkedin.com/posts/blackhatindia-bhindia-infosec-share-7492851938955325440-ad0u)
-
-- **Red x Blue Pill 2026** — *Your Clients Think MFA Means Secure. Prove Them Wrong: Systematic M365 Conditional Access Bypass via Microsoft First-Party Apps*
-  📅 12 Sep 2026
-  [Facebook](https://www.facebook.com/share/v/1F9tSqcRvt) · [LinkedIn](https://www.linkedin.com/posts/waris-damkham_redxbluepill2026-2600thailand-cybersecurity-ugcPost-7484609567113367552-4qfb)
 
 ## Selected Research Outputs
 
@@ -152,12 +154,13 @@ I focus on **offensive security, red teaming, AI security, identity and M365 sec
 
 ## CVE Research
 
-**32 CVEs** published/credited. Recent highlights:
+**33 CVEs** published/credited. Recent highlights:
 
+- **[CVE-2026-15710](https://nvd.nist.gov/vuln/detail/CVE-2026-15710)** — Netskope Client Endpoint DLP Kernel Driver Information Leakage
 - **[CVE-2026-0294](https://security.paloaltonetworks.com/CVE-2026-0294)** — Palo Alto Networks Prisma Access Agent: Local Privilege Escalation
 - **[CVE-2026-0292](https://security.paloaltonetworks.com/CVE-2026-0292)** — Palo Alto Networks Prisma Access Agent: Local Security Inspection Bypass on Windows
 
-→ [View all 32 CVEs on the portfolio](https://waris-damkham.netlify.app/#cves)
+→ [View all 33 CVEs on the portfolio](https://waris-damkham.netlify.app/#cves)
 
 ## GitHub Activity
 
