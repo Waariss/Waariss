@@ -129,15 +129,15 @@ My background spans **vulnerability research, red teaming, AI security, identity
 
 ### Completed
 
-- **Black Hat Asia 2026 Arsenal** — Oblivion Token: M365 Conditional Access Policy Bypass OST
+- **Red x Blue Pill 2026** — *Your Clients Think MFA Means Secure. Prove Them Wrong: Systematic M365 Conditional Access Bypass via Microsoft First-Party Apps*
+  📅 12 Sep 2026
+  [Facebook](https://www.facebook.com/share/v/1F9tSqcRvt) · [LinkedIn](https://www.linkedin.com/posts/waris-damkham_redxbluepill2026-2600thailand-securityresearch-activity-7504743240848535552-5re7)
 - **DEF CON Singapore 2026 Demo Labs** — Oblivion Token: M365 Conditional Access Policy Bypass OST
+- **Black Hat Asia 2026 Arsenal** — Oblivion Token: M365 Conditional Access Policy Bypass OST
 - **NCSA AI CTF 2026 (Thailand)** — Challenge author for AI-security and prompt-injection scenarios
 - **ICT Mahidol Cybersecurity Club** — Real-World Cybersecurity Without Filters
 - **KBTG Knowledge Sharing 2025** — AI Security Unmasked: The Hidden Danger Behind Your AI Tools
 - **TBCert Monthly Meeting 2025** — AI Security Research: The Rise of AI Threat
-- **Red x Blue Pill 2026** — *Your Clients Think MFA Means Secure. Prove Them Wrong: Systematic M365 Conditional Access Bypass via Microsoft First-Party Apps*
-  📅 12 Sep 2026
-  [Facebook](https://www.facebook.com/share/v/1F9tSqcRvt) · [LinkedIn](https://www.linkedin.com/posts/waris-damkham_redxbluepill2026-2600thailand-securityresearch-activity-7504743240848535552-5re7)
 
 ### Upcoming / Accepted
 
@@ -176,6 +176,10 @@ My background spans **vulnerability research, red teaming, AI security, identity
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Waariss&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
 </p>
+
+## Looking For
+
+Open to **research collaborations**, **speaking opportunities**, and **graduate research pathways**.
 
 ## Connect
 
