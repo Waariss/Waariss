@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=900&color=60A5FA&center=true&vCenter=true&width=980&lines=Red+Teaming+%E2%80%A2+AI+Security+%E2%80%A2+Identity+%26+AppSec;Black+Hat+Asia+2026+Arsenal+%7C+DEF+CON+Singapore+2026+Demo+Labs;35+CVEs+%7C+3+IEEE+Publications+%7C+Security+Tooling" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=900&color=60A5FA&center=true&vCenter=true&width=980&lines=Red+Teaming+%E2%80%A2+AI+Security+%E2%80%A2+Identity+%26+AppSec;Black+Hat+India+Briefings+2026+%7C+Red+x+Blue+Pill+2026;Black+Hat+Asia+2026+Arsenal+%7C+DEF+CON+Singapore+2026+Demo+Labs;35+CVEs+%7C+3+IEEE+Publications+%7C+Security+Tooling" alt="typing" />
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@ My background spans **vulnerability research, red teaming, AI security, identity
 
 - Current: **Cyber Security Engineer @ Cyber Test Systems** (Sep 2026 - Present)
 - Previous: **Offensive Security Engineer @ KASIKORN Business-Technology Group (KBTG)** (Nov 2024 - Sep 2026)
-- Research: Creator of **Oblivion Token**, presented at Black Hat Asia 2026 Arsenal and DEF CON Singapore 2026 Demo Labs; speaker at Red x Blue Pill 2026 and upcoming speaker at Black Hat India 2026 Briefings
+- Research: Creator of **Oblivion Token**, presented at Black Hat Asia 2026 Arsenal and DEF CON Singapore 2026 Demo Labs; speaker at Red x Blue Pill 2026 and Black Hat India Briefings 2026
 - Delivery: **45+ penetration tests, 40+ executive/technical summaries, and 25+ stakeholder briefings**
 
 ## Performance Snapshot (Website Data: 2026)
@@ -129,6 +129,10 @@ My background spans **vulnerability research, red teaming, AI security, identity
 
 ### Completed
 
+- **Black Hat India Briefings 2026** — *Policy per App, Trust per Family: Cross-Application Privilege Amplification in Microsoft 365*
+  📅 30 Oct 2026 · Track 2 · 16:00 IST · Bengaluru, India
+  [Post-event recap](https://lnkd.in/p/gfkrEgBP) · [Official session page](https://www.blackhat-india.com/index.php?task=briefings-schedule#policy-per-app-trust-per-family-cross-application-privilege-amplification-in-microsoft-365-50026) · [Black Hat India announcement](https://www.linkedin.com/posts/blackhatindia-bhindia-infosec-share-7492851938955325440-ad0u)
+
 - **Red x Blue Pill 2026** — *Your Clients Think MFA Means Secure. Prove Them Wrong: Systematic M365 Conditional Access Bypass via Microsoft First-Party Apps*
   📅 12 Sep 2026
   [Facebook](https://www.facebook.com/share/v/1F9tSqcRvt) · [LinkedIn](https://www.linkedin.com/posts/waris-damkham_redxbluepill2026-2600thailand-securityresearch-activity-7504743240848535552-5re7)
@@ -138,12 +142,6 @@ My background spans **vulnerability research, red teaming, AI security, identity
 - **ICT Mahidol Cybersecurity Club** — Real-World Cybersecurity Without Filters
 - **KBTG Knowledge Sharing 2025** — AI Security Unmasked: The Hidden Danger Behind Your AI Tools
 - **TBCert Monthly Meeting 2025** — AI Security Research: The Rise of AI Threat
-
-### Upcoming / Accepted
-
-- **Black Hat India 2026 Briefings** — *Policy per App, Trust per Family: Cross-Application Privilege Amplification in Microsoft 365*
-  📅 30 Oct 2026 · Track 2 · 16:00 IST · Bengaluru, India
-  [Official session page](https://www.blackhat-india.com/index.php?task=briefings-schedule#policy-per-app-trust-per-family-cross-application-privilege-amplification-in-microsoft-365-50026) · [Black Hat India announcement](https://www.linkedin.com/posts/blackhatindia-bhindia-infosec-share-7492851938955325440-ad0u)
 
 ## Selected Research Outputs
 
